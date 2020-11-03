@@ -23,7 +23,7 @@
     "@backstage/backend-common": "^0.1.1-alpha.26",
     "@backstage/catalog-model": "^0.1.1-alpha.26",
     "@backstage/config": "^0.1.1-alpha.26",
-    "@gitbeaker/core": "^23.5.0",
+    "@gitbeaker/core": "^25.2.0",
     "@gitbeaker/node": "^23.5.0",
     "@octokit/rest": "^18.0.0",
     "@types/dockerode": "^2.5.32",
